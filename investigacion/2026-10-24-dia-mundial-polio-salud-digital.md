@@ -34,3 +34,20 @@ Organización Panamericana de la Salud. (2026, 23 de octubre). Día Mundial cont
 Organización Panamericana de la Salud. (2026, 23 de octubre). Más allá de la digitalización: aprendizajes de Bolivia en la implementación del Registro Nominal de Vacunación Electrónica. https://www.paho.org/es/noticias/23-10-2026-mas-alla-digitalizacion-aprendizajes-bolivia-implementacion-registro-nominal-1
 Zarekar, M., Al-Shehabi, H., Dörner, R., et al. (2025). The impact of information and communication technology on immunisation and immunisation programmes in low-income and middle-income countries: A systematic review and meta-analysis. EBioMedicine, 111, 105520. https://doi.org/10.1016/j.ebiom.2024.105520
 Mantel, C., Hugo, C., Federici, C., et al. (2025). Impact of electronic immunization registries and electronic logistics management information systems in four low-and middle-income countries: Guinea, Honduras, Rwanda, and Tanzania. Vaccine, 54, 127066. https://doi.org/10.1016/j.vaccine.2025.127066
+
+
+## Verificación de programación Metricool 2026/10/24 07:30 Ecuador
+- 23/10 inclusión digital: Facebook y LinkedIn **PUBLISHED**; URLs: https://facebook.com/360736383365019/posts/1107241758714474 y https://linkedin.com/feed/update/urn:li:share:7519383555504930819
+- Instagram 23/10: dos intentos distintos con **ERROR**: `The Instagram account is restricted.` No reintentar sin resolver la restricción.
+- 24/10 especial Día Mundial contra la Polio, 10:00 Ecuador:
+  - Facebook id 404965539, UUID -4277692232767618121, PENDING. https://app.metricool.com/planner/calendar?blogId=3270457&openWithPostUuid=-4277692232767618121
+  - LinkedIn id 404965559, UUID -4834808260748359660, PENDING. https://app.metricool.com/planner/calendar?blogId=3270457&openWithPostUuid=-4834808260748359660
+- 26/10 interoperabilidad: Facebook id 404121453 PENDING, LinkedIn id 404121473 PENDING. No duplicar.
+- YouTube: sin MP4 validado; no programar.
+- PENDING ≠ PUBLISHED. Revisar estado después de las 10:00 y de la fecha 26/10.
+
+## Ideas para blog quincenal, PENDIENTE DE REVISIÓN
+1. **La vacunación no se digitaliza: se coordina mejor** — registros nominales, telesalud y brechas de cobertura en LATAM (tendencia Día Mundial contra la Polio, Bolivia y revisión 2025).
+2. **Preparación sanitaria ante emergencias: formación virtual que conecta especialistas y equipos locales** — noticia OPS + Project ECHO 23/10/2026. Fuente https://www.paho.org/es/noticias/23-10-2026-ops-project-echo-unen-esfuerzos-para-fortalecer-capacidades-personal-salud-para
+3. **Dengue y chikungunya: cómo apoyar vigilancia y orientación remota sin retrasar la atención presencial** — alerta OPS 21/10/2026. Fuente https://www.paho.org/es/noticias/21-10-2026-ops-insta-reforzar-vigilancia-preparacion-ante-aumentos-dengue-chikungunya
+No atribuir opiniones ni experiencias a la dirección editorial. No publicar blog sin aprobación explícita.
