@@ -20,3 +20,7 @@ Fotografía hiperrealista, medicina e ingeniería, sobriedad institucional y cla
 
 ## Control metodológico
 Verificar fuentes de noticias y redes; no inventar acceso a cuentas ni actividad de OITT; separar asociación de causalidad y evidencia de propuesta; documentar resultados negativos o contradictorios; evitar sensacionalismo en catástrofes; mantener foco territorial latinoamericano.
+
+## Imagen obligatoria del artículo
+
+Todo artículo y sus piezas derivadas deben contar con al menos una imagen de portada alusiva al tema, minimalista, accesible, editorialmente validada y distinta de las últimas cinco composiciones. No publicar texto solo ni utilizar una imagen genérica o un logotipo recreado. Verificar derechos, formato y URL pública del recurso. El artículo continúa sujeto a aprobación explícita de la versión final y de su portada.
