@@ -52,3 +52,12 @@ OMS: https://www.who.int/es
 Banco Mundial: https://www.bancomundial.org/es/home
 PubMed: https://pubmed.ncbi.nlm.nih.gov/
 Cochrane Library: https://www.cochranelibrary.com/
+
+## Regla visual obligatoria (actualización 2026/10/28)
+
+- **Toda publicación OITT debe tener al menos una imagen alusiva al tema, minimalista, legible, pertinente y validada.** Esto incluye Facebook y LinkedIn; queda revocada la excepción anterior de publicar únicamente texto.
+- Para Instagram, verificar imagen o carrusel válido y accesible. Para YouTube, MP4 válido y accesible; miniatura coherente cuando corresponda.
+- La imagen debe transmitir el contenido real (no ser una decoración genérica); mantener sobriedad, humanidad y variedad de las últimas cinco piezas. Evitar saturación de textos y rostros sintéticos presentados como personas reales.
+- **Control de salida:** antes de programar, comprobar URL de medio pública, formato, resolución, pertinencia temática, integridad del logotipo oficial si aparece y cumplimiento por plataforma. Un enlace que solo genera una previsualización NO sustituye una imagen adjunta.
+- Si falta un medio válido, **no programar ni autopublicar**. Las publicaciones futuras existentes sin medio deben convertirse en borrador con `draft:true` y `autoPublish:false` hasta añadir un recurso verificado. Registrar ID, UUID y resultado por red.
+- El repositorio actual no contiene el PNG original bajo `marca/` (verificado el 2026/10/28). No recrear ni inventar el logotipo; diseñar sin logo hasta obtener el archivo oficial.
